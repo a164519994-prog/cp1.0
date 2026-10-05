@@ -1,0 +1,8 @@
+{
+  "name": "CareerCompass",
+  "description": "A friendly, intuitive assessment tool that identifies your core strengths and recommends ideal career paths with simple, engaging quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
